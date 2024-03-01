@@ -50,6 +50,6 @@
         finalPrice = basePrice + addyear+addmileage+addhasClimateControl+addsafetyPackage+addisElectric;
 
         console.log("Base price was " + basePrice + ", and final price is " + finalPrice+ ".");
-        console.log("Base price was " + basePrice + ", and year added " + addyear +", and mileage added " + addmileage + ", and hasClimateControle added " + addhasClimateControl + ", and safety package added " + addsafetyPackage + ", and isElectric added " +addisElectric + ".");
+        console.log("Base price was " + basePrice + ",\n and year added " + addyear +",\n and mileage added " + addmileage + ",\n and hasClimateControle added " + addhasClimateControl + ",\n and safety package added " + addsafetyPackage + ",\n and isElectric added " +addisElectric + ".");
 
     

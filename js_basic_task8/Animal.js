@@ -8,7 +8,7 @@ export default class Animal {
     }
 
     sayHello() {
-        console.log(`Hello! I'm ${this.name}.`);
+        console.log(`Hello! I'm ${this.name} and I'm a ${this.type}.`);
     }
 
     run() {
